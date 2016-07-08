@@ -1,0 +1,25 @@
+{
+  "name": "bedrock-credential-notifications",
+  "version": "0.0.1",
+  "scripts": {},
+  "dependencies": {
+    "async": "^1.5.2"
+  },
+  "peerDependencies": {
+    "bedrock": "^1.2.0",
+    "bedrock-credentials-mongodb": "^3.0.0",
+    "bedrock-express": "^2.0.3",
+    "bedrock-mail": "^2.0.0",
+    "bedrock-mongodb": "^3.0.2",
+    "bedrock-passport": "^3.0.0",
+    "bedrock-permission": "^2.3.0",
+    "bedrock-requirejs": "^2.0.0",
+    "bedrock-rest": "^2.0.0",
+    "bedrock-server": "^2.0.0",
+    "bedrock-session-http": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "main": "./lib/notification"
+}
