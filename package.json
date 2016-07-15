@@ -1,6 +1,6 @@
 {
   "name": "bedrock-credential-notifications",
-  "version": "0.0.3-0",
+  "version": "0.0.3",
   "scripts": {},
   "dependencies": {
     "async": "^1.5.2"
