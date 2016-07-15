@@ -1,4 +1,3 @@
-# bedrock-angular-credential
+# bedrock-credential-notifications
 
-A [bedrock][] module that provides credential notification support.
-
+Bedrock backend credential notification support.
