@@ -1,6 +1,6 @@
 {
   "name": "bedrock-credential-notifications",
-  "version": "0.0.4-0",
+  "version": "0.0.4",
   "description": "Bedrock Credential Notifications",
   "scripts": {},
   "repository": {
@@ -37,4 +37,3 @@
   },
   "main": "./lib/index"
 }
-
